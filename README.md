@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Micronux-PRO
-- 👀 I’m interested in Technology and Cars
-- 🌱 I’m currently learning Python And Prompt Engineering And Datascience
-- 💞️ I’m looking to collaborate on Creating A Game in HTML or an Application with python but I still don't have the knowledge to create that
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning AI Engineering
 - 📫 How to reach me: micronux95@gmail.com
-- ⚡ Fun fact: when I was 8 years old I was thinking that if I typed in google how to become a hacker I'll become a hacker instantly
-- 💓 My Favorite car Is BMW M5 CS 2022
+- ⚡ Fun fact: The first video game cheat code was Up, Up, Down, Down, Left, Right, Left, Right, B, A. It’s called the Konami Code—and it’s legendary.
